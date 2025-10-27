@@ -33,6 +33,7 @@ Um script simples e eficiente em **Python** para coletar dados de produtos diret
    git clone https://github.com/brksam/mercado-scraper.git
 
 2. ***Entre na pasta:**
+   ```bash
    cd mercado
 
 3. ***Instale as dependências:**
