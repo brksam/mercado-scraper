@@ -1,0 +1,16 @@
+# Ambientes virtuais
+venv/
+.env/
+
+# Arquivos temporários
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Planilhas geradas
+*.xlsx
