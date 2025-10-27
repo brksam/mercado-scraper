@@ -47,13 +47,14 @@ Um script simples e eficiente em **Python** para coletar dados de produtos diret
    produtos_<NOME_DO_PRODUTO>.xlsx
 
 ## 📁 Estrutura do Projeto
+```bash
 mercado-scraper/
 │
-├── mercado.py           # Script principal de scraping
-├── requirements.txt     # Dependências do projeto
-├── .gitignore           # Arquivos ignorados pelo Git
-└── README.md            # Documentação do projeto
-
+├── mercado.py # Script principal de scraping
+├── requirements.txt # Dependências do projeto
+├── .gitignore # Arquivos ignorados pelo Git
+└── README.md # Documentação do projeto
+```
 ## ⚠️ Aviso Importante
 
 Este projeto foi criado exclusivamente para fins educacionais e de aprendizado.
