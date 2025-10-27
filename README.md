@@ -36,13 +36,16 @@ Um script simples e eficiente em **Python** para coletar dados de produtos diret
    cd mercado
 
 3. ***Instale as dependências:**
+   ```bash
    pip install -r requirements.txt
 4. ***Execute o script:**
+   ```bash
    python mercado.py
 5. ***igite o nome do produto que deseja buscar e aguarde a geração da planilha:**
+   ```bash
    produtos_<NOME_DO_PRODUTO>.xlsx
 
-📁 Estrutura do Projeto
+## 📁 Estrutura do Projeto
 mercado-scraper/
 │
 ├── mercado.py           # Script principal de scraping
@@ -50,13 +53,13 @@ mercado-scraper/
 ├── .gitignore           # Arquivos ignorados pelo Git
 └── README.md            # Documentação do projeto
 
-⚠️ Aviso Importante
+## ⚠️ Aviso Importante
 
 Este projeto foi criado exclusivamente para fins educacionais e de aprendizado.
 O uso indevido para coleta massiva de dados pode violar os termos de uso do Mercado Livre.
 Utilize com responsabilidade e moderação.
 
-💡 Autor
+## 💡 Autor
 
 👨‍💻 Samuel Souto (brksam)
 📫 Contato: GitHub - @brksam
