@@ -34,7 +34,7 @@ Um script simples e eficiente em **Python** para coletar dados de produtos diret
 
 2. ***Entre na pasta:**
    ```bash
-   cd mercado
+   cd mercado-scraper
 
 3. ***Instale as dependências:**
    ```bash
