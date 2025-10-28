@@ -27,10 +27,7 @@ try:
     print(f" Processando {len(produtos)} produtos...")
 
     for produto in produtos:
-        if not produto:
-            print("Nenhum produto encontrado, tente outro seletor (digite novamente)")
-            produto = site.find('h3', attrs={'class': 'poly-component__title-wrapper'})
-
+    
         #titulo
         titulo = produto.find('h3', attrs={'class': 'poly-component__title-wrapper'})
 
